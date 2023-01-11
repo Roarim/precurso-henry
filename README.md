@@ -1,2 +1,1 @@
-# precurso-henry
-Es un repositorio para poner en practica lo aprendido
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a un repositorio local
